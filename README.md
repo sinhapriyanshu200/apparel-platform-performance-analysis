@@ -1,4 +1,4 @@
-# 👘 Apparel Platform Performance Regression Analysis
+# 👘 Apparel Platform Performance Analysis
 
 ## 📈 Overview
 This project builds predictive models to estimate customer spending on an apparel platform. Through careful EDA and feature engineering, it uncovers key drivers of customer purchases.
