@@ -33,7 +33,7 @@ This project builds predictive models to estimate customer spending on an appare
 **Priyanshu Sinha**  
 M.Tech | IIT (BHU) Varanasi  
 📧  sinhapriyanshu200@gmail.com
-[🔗 LinkedIn](https://www.linkedin.com/in/sinhapriyanshu200/)
+🔗  [LinkedIn](https://www.linkedin.com/in/sinhapriyanshu200/)
 
 ---
 
